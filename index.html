@@ -25,34 +25,45 @@
   <!-- Favicon -->
   <link rel="icon" href="./logo.ico" type="image/x-icon" />
 
-
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
   <!-- Docsify Theme + Custom -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
-  <style>
-    body { font-family: 'Segoe UI', sans-serif; }
-  </style>
+
 </head>
 
 <body>
   <div id="app"></div>
+   <!-- Footer -->
+<!--   <div class="footer">
+    <p>© 2025 Binariotheca Challenges. Прокачивай мозг, пиши код, не теряй темп.</p>
+    <p>
+      Подписывайся на <a href="https://t.me/binariotheca" target="_blank">наш Telegram</a> — там всё самое свежее.
+    </p>
+  </div> -->
+  <!-- Docsify Core -->
 
   <script>
-    window.$docsify = {
+  window.$docsify = {
       name: 'Binariotheca Challenges',
       repo: 'https://github.com/maximmc911/binariotheca-challenges',
       loadSidebar: true,
-            loadNavbar: true,
-      subMaxLevel: 2,
+            loadNavbar: false,
+      subMaxLevel: 0,
       search: 'auto',
       themeColor: '#0ea5e9',
-      auto2top: true    
+    //   auto2top: true  
+    //   loadFooter: true,                      // ✅ добавляем это
+    // alias: {
+    //   '/.*/footer.html': '/footer.html'   // на всякий случай для GitHub Pages
+    // }
     };
-  </script>
 
-  <!-- Docsify Core -->
+</script>
+
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
   <!-- Search Plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
 </body>
 </html>
