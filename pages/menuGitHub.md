@@ -14,3 +14,10 @@
 - #### [Легкий уровень](pages/mathmethod/levelLite.md)
 - #### [Средний уровень](pages/mathmethod/levelMedium.md)
 - #### [Сложный уровень](pages/mathmethod/levelHard.md)
+
+
+## 3. Методы строк
+
+- #### [Легкий уровень](pages/stringmethod/levelLite.md)
+- #### [Средний уровень](pages/stringmethod/levelMedium.md)
+- #### [Сложный уровень](pages/stringmethod/levelHard.md)
