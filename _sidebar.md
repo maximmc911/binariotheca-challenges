@@ -24,6 +24,13 @@
 - [Методы строк: сложный уровень](./pages/stringmethod/levelHard.md)
 
 
+-------
+
+- [Условия if-else: легкий уровень](./pages/conditionIfElse/levelLite.md)
+- [Условия if-else: средний уровень](./pages/conditionIfElse/levelMedium.md)
+- [Условия if-else: сложный уровень](./pages/conditionIfElse/levelHard.md)
+
+
  📬 Связь
  
 - [Telegram канал](https://t.me/binariotheca)

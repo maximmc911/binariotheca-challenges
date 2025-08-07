@@ -21,3 +21,10 @@
 - #### [Легкий уровень](pages/stringmethod/levelLite.md)
 - #### [Средний уровень](pages/stringmethod/levelMedium.md)
 - #### [Сложный уровень](pages/stringmethod/levelHard.md)
+
+
+## 4. Условия if-else
+
+- #### [Легкий уровень](pages/conditionIfElse/levelLite.md)
+- #### [Средний уровень](pages/conditionIfElse/levelMedium.md)
+- #### [Сложный уровень](pages/conditionIfElse/levelHard.md)
