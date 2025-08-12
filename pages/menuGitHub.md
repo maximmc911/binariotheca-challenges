@@ -50,3 +50,12 @@
 - #### [Легкий уровень](pages/switch/levelLite.md)
 - #### [Средний уровень](pages/switch/levelMedium.md)
 - #### [Сложный уровень](pages/switch/levelHard.md)
+
+
+
+## 6. Массивы
+
+- #### [Легкий уровень](pages/array/levelLite.md)
+- #### [Средний уровень](pages/array/levelMedium.md)
+- #### [Сложный уровень](pages/array/levelHard.md)
+

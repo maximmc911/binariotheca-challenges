@@ -39,6 +39,15 @@
 - [Условия switch: сложный уровень](./pages/switch/levelHard.md)
 
 
+
+
+-------
+
+- [Массивы: легкий уровень](./pages/array/levelLite.md)
+- [Массивы: средний уровень](./pages/array/levelMedium.md)
+- [Массивы: сложный уровень](./pages/array/levelHard.md)
+
+
  📬 Связь
  
 - [Telegram канал](https://t.me/binariotheca)
