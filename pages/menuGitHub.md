@@ -68,3 +68,13 @@
 - #### [Средний уровень](pages/arraymethod/levelMedium.md)
 - #### [Сложный уровень](pages/arraymethod/levelHard.md)
 
+
+
+
+
+## 8. Объекты
+
+- #### [Легкий уровень](pages/object/levelLite.md)
+- #### [Средний уровень](pages/object/levelMedium.md)
+- #### [Сложный уровень](pages/object/levelHard.md)
+
