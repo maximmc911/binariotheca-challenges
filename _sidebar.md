@@ -31,6 +31,14 @@
 - [Условия if-else: сложный уровень](./pages/conditionIfElse/levelHard.md)
 
 
+
+-------
+
+- [Условия switch: легкий уровень](./pages/switch/levelLite.md)
+- [Условия switch: средний уровень](./pages/switch/levelMedium.md)
+- [Условия switch: сложный уровень](./pages/switch/levelHard.md)
+
+
  📬 Связь
  
 - [Telegram канал](https://t.me/binariotheca)

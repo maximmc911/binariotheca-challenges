@@ -43,3 +43,10 @@
 - #### [Легкий уровень](pages/conditionIfElse/levelLite.md)
 - #### [Средний уровень](pages/conditionIfElse/levelMedium.md)
 - #### [Сложный уровень](pages/conditionIfElse/levelHard.md)
+
+
+## 5. Условия switch
+
+- #### [Легкий уровень](pages/switch/levelLite.md)
+- #### [Средний уровень](pages/switch/levelMedium.md)
+- #### [Сложный уровень](pages/switch/levelHard.md)
