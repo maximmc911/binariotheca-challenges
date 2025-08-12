@@ -59,3 +59,12 @@
 - #### [Средний уровень](pages/array/levelMedium.md)
 - #### [Сложный уровень](pages/array/levelHard.md)
 
+
+
+
+## 7. Методы массивов
+
+- #### [Легкий уровень](pages/arraymethod/levelLite.md)
+- #### [Средний уровень](pages/arraymethod/levelMedium.md)
+- #### [Сложный уровень](pages/arraymethod/levelHard.md)
+
